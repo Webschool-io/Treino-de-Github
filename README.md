@@ -22,3 +22,4 @@ Repositório para você poder treinar a utilização do Git/Github.
 ## Referências
 
 - [https://help.github.com/articles/autolinked-references-and-urls/#issues-and-pull-requests](https://help.github.com/articles/autolinked-references-and-urls/#issues-and-pull-requests)
+- [https://help.github.com/articles/basic-writing-and-formatting-syntax/](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
