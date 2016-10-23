@@ -26,4 +26,4 @@ Repositório para você poder treinar a utilização do Git/Github.
 
 ## Contribuição
 
-1. [@andreferreira](http://github.com/andreferreira-me)
+1. [@andreferreira-me](http://github.com/andreferreira-me)
