@@ -19,6 +19,11 @@ Repositório para você poder treinar a utilização do Git/Github.
 12. Atualize seus arquivos locais via upstream
 13. Adicione seu nome no final do README.md do branch master e envie outro **pull request**.
 
+## Contribuidores
+
+- [fpchemical](https://github.com/fpchemical)
+
+
 ## Referências
 
 - [https://help.github.com/articles/autolinked-references-and-urls/#issues-and-pull-requests](https://help.github.com/articles/autolinked-references-and-urls/#issues-and-pull-requests)
