@@ -22,6 +22,7 @@ Repositório para você poder treinar a utilização do Git/Github.
 ## Contribuidores
 
 - [fpchemical](https://github.com/fpchemical)
+- [André Ferreira](https://github.com/andreferreira-me)
 
 
 ## Referências
