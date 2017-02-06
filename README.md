@@ -1,12 +1,13 @@
 # Treino-de-Github
 
-Repositório para você poder treinar a utilização do Git/Github.
+Adicione seu nome aqui tb!
 
 ## Passos
 
 0. Crie uma issue descrevendo o que irá fazer
 1. Forkar esse repositório
 2. Clonar na sua máquina
+    `git clone {url}.git` 
 3. Adicionar o reposiório oficial com upstream
 4. Criar um branch: dev-SEUGithubUSERNAME
 5. Criar um branch: feature-SEUGithubUSERNAME
@@ -29,3 +30,6 @@ Repositório para você poder treinar a utilização do Git/Github.
 
 - [https://help.github.com/articles/autolinked-references-and-urls/#issues-and-pull-requests](https://help.github.com/articles/autolinked-references-and-urls/#issues-and-pull-requests)
 - [https://help.github.com/articles/basic-writing-and-formatting-syntax/](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+
+- [Rick](https://github.com/trimasterweb)
