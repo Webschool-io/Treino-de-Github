@@ -30,3 +30,6 @@ Adicione seu nome aqui tb!
 
 - [https://help.github.com/articles/autolinked-references-and-urls/#issues-and-pull-requests](https://help.github.com/articles/autolinked-references-and-urls/#issues-and-pull-requests)
 - [https://help.github.com/articles/basic-writing-and-formatting-syntax/](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
+
+- [Rick](https://github.com/trimasterweb)
