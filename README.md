@@ -1,7 +1,6 @@
 # Treino-de-Github
 
 Adicione seu nome aqui tb!
-jose1113
 
 <<<<<<< HEAD
 ## Passos
@@ -34,3 +33,4 @@ jose1113
 =======
 - [Suissa](https://github.com/suissa)
 >>>>>>> origin/feature-BASE
+- [Jose1113](https://github.com/jose1113)
